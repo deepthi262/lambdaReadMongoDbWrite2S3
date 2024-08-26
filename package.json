@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "aws-sdk": "^2.1681.0",
+    "aws-sdk": "^2.1683.0",
     "mongodb": "^6.8.0"
   }
 }
